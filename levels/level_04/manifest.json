@@ -1,0 +1,12 @@
+{
+  "level_id": "level_04",
+  "title": "Reflection and Proposal",
+  "task_file": "task.md",
+  "checker_file": "checker.py",
+  "answer_format": "提交 REFLECT:<你的反思> 形式的文字",
+  "hints": [
+    "这一关不是密码题，而是工程思考题。",
+    "回答里至少包含一个可执行改进点。"
+  ],
+  "pass_message": "Final level done."
+}

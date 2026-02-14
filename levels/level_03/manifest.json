@@ -1,0 +1,12 @@
+{
+  "level_id": "level_03",
+  "title": "Black-box Debugging",
+  "task_file": "task.md",
+  "checker_file": "checker.py",
+  "answer_format": "提交多选题答案（升序数字串），例如 013",
+  "hints": [
+    "可运行 mystery_calculator.py 的 test 模式观察异常。",
+    "提示聚焦：前三个元素、0分短路、高分惩罚、偶数门课、60~65处理。"
+  ],
+  "pass_message": "Excellent! 你完成了黑盒测试推断。"
+}

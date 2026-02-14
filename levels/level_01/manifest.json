@@ -1,0 +1,12 @@
+{
+  "level_id": "level_01",
+  "title": "Maze Warm-up",
+  "task_file": "task.md",
+  "checker_file": "checker.py",
+  "answer_format": "输入 welcome 文件中的首行完整句子",
+  "hints": [
+    "用命令行遍历 maze 目录，寻找隐藏文件。",
+    "提示文件名是 .welcome。"
+  ],
+  "pass_message": "Nice! 你已经掌握了文件探索能力。"
+}

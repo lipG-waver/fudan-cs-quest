@@ -1,0 +1,12 @@
+{
+  "level_id": "level_02",
+  "title": "Git History Detective",
+  "task_file": "task.md",
+  "checker_file": "checker.py",
+  "answer_format": "提交 git 历史里真实密码字符串",
+  "hints": [
+    "在目标目录内查看 password.txt，再结合 git log。",
+    "关注 commit message: 真的密码存储在这里。"
+  ],
+  "pass_message": "Great! 你完成了版本历史追踪。"
+}
